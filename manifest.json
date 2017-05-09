@@ -1,6 +1,6 @@
 {
-  "name": "YOUR_SITE_NAME",
-  "short_name": "YOUR_SITE_NAME",
+  "name": "UNIVERSITARIO_DE_SUCESSO",
+  "short_name": "UNIVERSITARIO_DE_SUCESSO",
   "start_url": "/",
   "display": "standalone",
   "gcm_sender_id": "482941778795"
